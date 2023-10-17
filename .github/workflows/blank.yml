@@ -1,0 +1,35 @@
+# Esta es una tarea basica que te ayudara a empezar con las acciones
+
+name: CI
+
+# Controla cuando  se ejecuta el mflujo de trabajo.
+on:
+  # Activa el flujo de workflow en eventos de solicitud de insercion o extracción, pero solo para la rama principal
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  # permite ejecutar este flujo de trabajo manualmente desde la pestaña Acciones.
+  workflow_dispatch:
+
+# Una ejecución de flujo de trabajo se compone de uno o mas trabajos que se pueden ejecutar de forma secuencial o en paralelo.
+jobs:
+  # Este flujo de trabajo contiene el unico trabajo llamado "compilación".
+  build:
+    # El tipo de corredor en el que se ejecutara el trabajo.
+    runs-on: ubuntu-latest
+
+    # Los pasos representan una secuencia de tareas que se ejecutan como parte del trabajo.
+    steps:
+      # Revisa tu repositorio en $GITHUB_WORKSPACE, para que tu repositorio pueda acceder a el.
+      - uses: actions/checkout@v3
+
+      # ejecuta un solo comando usando el shell de corredores.     
+      - name: Run a one-line script
+        run: echo Hello, world!
+
+      # Ejecuta un conajunto de commandos usandomel shell de corredores.
+      - name: Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
