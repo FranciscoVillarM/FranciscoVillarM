@@ -17,7 +17,9 @@ Actualmente estoy desarrollando proyectos personales para fortalecer mis habilid
 
 -C#
 
-<i class="devicon-aarch64-plainde colores"></i> Java
+## 🛠 Tecnologías
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> Java
 
 -SQL
 
