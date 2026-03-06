@@ -21,7 +21,7 @@ Actualmente estoy desarrollando proyectos personales para fortalecer mis habilid
 
 -JavaScript (básico)
 
-## 🛠 Desarrollo
+### 🛠 Desarrollo
 
 -Visual Studio
 
@@ -31,7 +31,7 @@ Actualmente estoy desarrollando proyectos personales para fortalecer mis habilid
 
 -Windows Forms
 
-## 🗄 Bases de datos
+### 🗄 Bases de datos
 
 -SQL Server
 
@@ -39,7 +39,7 @@ Actualmente estoy desarrollando proyectos personales para fortalecer mis habilid
 
 -Modelamiento de datos
 
-## 📊 Ingeniería de Software
+### 📊 Ingeniería de Software
 
 -UML
 
@@ -49,8 +49,9 @@ Actualmente estoy desarrollando proyectos personales para fortalecer mis habilid
 
 -Diagramas de Actividad
 
-##📂 Proyectos Destacados
-###🛡 Sistema PrevCrim
+## 📂 Proyectos Destacados
+
+### 🛡 Sistema PrevCrim
 
 Sistema de gestión para registro y control de delitos desarrollado en C# y SQL Server.
 
@@ -74,7 +75,7 @@ Tecnologías utilizadas:
 
 -Arquitectura MVC
 
-###🎫 Sistema Tótem de Atención
+### 🎫 Sistema Tótem de Atención
 
 Sistema de gestión de turnos para atención de público.
 
