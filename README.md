@@ -2,7 +2,7 @@
 
 🎓 Analista Programador Computacional – IPChile
 
-💻 Interesado en desarrollo de software, bases de datos y seguridad informática
+💻 Interesado en desarrollo de software, bases de datos y soporte TI
 
 📍 Santiago, Chile
 
@@ -77,8 +77,7 @@ Sistema de gestión para registro y control de delitos desarrollado en C# y SQL 
 
 -Arquitectura MVC
 
-
-### 🎫 Sistema Tótem de Atención
+## 🎫 Sistema Tótem de Atención
 
 ### Sistema de gestión de turnos para atención de público.
 
@@ -129,4 +128,4 @@ Donde pueda seguir aprendiendo, aportar con mis conocimientos y crecer profesion
 📧 Email: (franciscovillar1108@gmail.com)
 💻 GitHub: https://github.com/FranciscoVillarM
 
-                                                          ### ⭐ Gracias por visitar mi perfil
+###                                                          ⭐ Gracias por visitar mi perfil
