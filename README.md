@@ -25,7 +25,9 @@ Actualmente estoy desarrollando proyectos personales para fortalecer mis habilid
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
 
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" title="SQL Server"/>
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
 
@@ -33,13 +35,15 @@ Actualmente estoy desarrollando proyectos personales para fortalecer mis habilid
 
 ### 🛠 Desarrollo
 
--Visual Studio
+- Visual Studio
 
--Visual Studio Code
+- Visual Studio Code
 
--.NET 8 / ASP.NET Core
+- .NET 8 / ASP.NET Core
 
--Windows Forms
+- Windows Forms
+
+- Apache NetBeans
 
 ### 🗄 Bases de datos
 
