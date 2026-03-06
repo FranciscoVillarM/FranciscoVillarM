@@ -1,7 +1,9 @@
 # 👨‍💻 Hola!, soy Francisco Villar
 
 🎓 Analista Programador Computacional – IPChile
+
 💻 Interesado en desarrollo de software, bases de datos y seguridad informática
+
 📍 Santiago, Chile
 
 Soy un profesional de tecnología enfocado en el desarrollo de aplicaciones y soluciones informáticas.
@@ -55,7 +57,7 @@ Actualmente estoy desarrollando proyectos personales para fortalecer mis habilid
 
 Sistema de gestión para registro y control de delitos desarrollado en C# y SQL Server.
 
-Características:
+### Características:
 
 -Autenticación de usuarios con roles
 
@@ -65,7 +67,7 @@ Características:
 
 -Interfaz administrativa
 
-Tecnologías utilizadas:
+### Tecnologías utilizadas:
 
 -C#
 
@@ -75,11 +77,12 @@ Tecnologías utilizadas:
 
 -Arquitectura MVC
 
+
 ### 🎫 Sistema Tótem de Atención
 
-Sistema de gestión de turnos para atención de público.
+### Sistema de gestión de turnos para atención de público.
 
-Funciones principales:
+### Funciones principales:
 
 -Generación automática de tickets
 
@@ -89,7 +92,7 @@ Funciones principales:
 
 -Impresión automática de ticket
 
-Tecnologías:
+### Tecnologías:
 
 -C#
 
@@ -109,7 +112,7 @@ Tecnologías:
 
 ## 🎯 Objetivo Profesional
 
--Busco oportunidades como:
+### Busco oportunidades como:
 
 -Desarrollador Junior
 
@@ -126,4 +129,4 @@ Donde pueda seguir aprendiendo, aportar con mis conocimientos y crecer profesion
 📧 Email: (franciscovillar1108@gmail.com)
 💻 GitHub: https://github.com/FranciscoVillarM
 
-### ⭐ Gracias por visitar mi perfil
+                                                          ### ⭐ Gracias por visitar mi perfil
