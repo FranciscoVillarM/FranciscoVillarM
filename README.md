@@ -1,16 +1,128 @@
-## Hi there 👋
+# 👨‍💻 Hola!, soy Francisco Villar
 
-<!--
-**FranciscoVillarM/FranciscoVillarM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Analista Programador Computacional – IPChile
+💻 Interesado en desarrollo de software, bases de datos y seguridad informática
+📍 Santiago, Chile
 
-Here are some ideas to get you started:
+Soy un profesional de tecnología enfocado en el desarrollo de aplicaciones y soluciones informáticas.
+Me interesa seguir aprendiendo y creciendo en áreas como desarrollo backend, bases de datos y soporte TI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente estoy desarrollando proyectos personales para fortalecer mis habilidades en C#, SQL Server y desarrollo web con ASP.NET Core.
+
+## 🚀 Tecnologías y Herramientas
+
+### 💻 Lenguajes
+
+-C#
+
+-Java
+
+-SQL
+
+-JavaScript (básico)
+
+## 🛠 Desarrollo
+
+-Visual Studio
+
+-Visual Studio Code
+
+-.NET 8 / ASP.NET Core
+
+-Windows Forms
+
+## 🗄 Bases de datos
+
+-SQL Server
+
+-MySQL
+
+-Modelamiento de datos
+
+## 📊 Ingeniería de Software
+
+-UML
+
+-Modelo Entidad Relación
+
+-Diagramas de Casos de Uso
+
+-Diagramas de Actividad
+
+##📂 Proyectos Destacados
+###🛡 Sistema PrevCrim
+
+Sistema de gestión para registro y control de delitos desarrollado en C# y SQL Server.
+
+Características:
+
+-Autenticación de usuarios con roles
+
+-Registro de delitos y delincuentes
+
+-Gestión de sectores e instituciones
+
+-Interfaz administrativa
+
+Tecnologías utilizadas:
+
+-C#
+
+-ASP.NET Core
+
+-SQL Server
+
+-Arquitectura MVC
+
+###🎫 Sistema Tótem de Atención
+
+Sistema de gestión de turnos para atención de público.
+
+Funciones principales:
+
+-Generación automática de tickets
+
+-Selección de tipo de atención
+
+-Registro en base de datos
+
+-Impresión automática de ticket
+
+Tecnologías:
+
+-C#
+
+-Windows Forms
+
+-SQL Server
+
+## 📚 Actualmente estoy aprendiendo
+
+-Desarrollo Web con ASP.NET Core
+
+-Seguridad en aplicaciones
+
+-Mejores prácticas de bases de datos
+
+-Arquitectura de software
+
+## 🎯 Objetivo Profesional
+
+-Busco oportunidades como:
+
+-Desarrollador Junior
+
+-Soporte TI Nivel 1
+
+-Soporte de aplicaciones
+
+-Analista programador junior
+
+Donde pueda seguir aprendiendo, aportar con mis conocimientos y crecer profesionalmente.
+
+## 📫 Contacto
+
+📧 Email: (franciscovillar1108@gmail.com)
+💻 GitHub: https://github.com/FranciscoVillarM
+
+### ⭐ Gracias por visitar mi perfil
