@@ -17,7 +17,7 @@ Actualmente estoy desarrollando proyectos personales para fortalecer mis habilid
 
 -C#
 
--Java
+<i class="devicon-aarch64-plainde colores"></i> Java
 
 -SQL
 
