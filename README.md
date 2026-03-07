@@ -68,7 +68,7 @@ Sistema de gestión para registro y control de delitos desarrollado en C# y SQL 
 **Funciones principales**
 - Autenticación de usuarios con roles
 - Registro y gestión de delitos
-- Gestión de delincuentes, sectores e instituciones
+- Gestión de detenidos, sectores e instituciones
 - Panel administrativo
 
 **Tecnologías**
