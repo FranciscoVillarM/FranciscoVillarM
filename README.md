@@ -19,11 +19,7 @@ Actualmente estoy desarrollando proyectos personales para fortalecer mis habilid
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" title="C#"/>
 
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" title="Java"/>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
 
 </p>
 
@@ -37,9 +33,9 @@ Actualmente estoy desarrollando proyectos personales para fortalecer mis habilid
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50" title=".NET / ASP.NET Core" style="margin-right:40px;"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" title="Windows Forms" style="margin-right:40px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" title="Windows Forms" style="margin-right:40px;"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="50" title="Apache NetBeans"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="40" title="Apache NetBeans"/>
 
 </p>
 
