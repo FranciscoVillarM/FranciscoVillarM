@@ -69,25 +69,12 @@ Actualmente estoy desarrollando proyectos personales para fortalecer mis habilid
 
 Sistema de gestión para registro y control de delitos desarrollado en C# y SQL Server.
 
-### Características:
-
-- Autenticación de usuarios con roles
-
-- Registro de delitos y delincuentes
-
-- Gestión de sectores e instituciones
-
-- Interfaz administrativa
-
-### Tecnologías utilizadas:
-
-- C#
-
-- ASP.NET Core
-
-- SQL Server
-
-- Arquitectura MVC
+| Características | Tecnologías utilizadas |
+|----------------|-----------------------|
+| Autenticación de usuarios con roles | C# |
+| Registro de delitos y delincuentes | ASP.NET Core |
+| Gestión de sectores e instituciones | SQL Server |
+| Interfaz administrativa | Arquitectura MVC |
 
 ## 🎫 Sistema Tótem de Atención
 
