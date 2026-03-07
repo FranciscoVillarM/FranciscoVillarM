@@ -15,7 +15,7 @@ Actualmente estoy desarrollando proyectos personales para fortalecer mis habilid
 
 ## 💻 Lenguajes
 
-<p align="left">
+<p align="right">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" title="C#"/>
 
@@ -63,27 +63,27 @@ Actualmente estoy desarrollando proyectos personales para fortalecer mis habilid
 
 Sistema de gestión para registro y control de delitos desarrollado en C# y SQL Server.
 
-**Funciones principales**
+### Funciones principales
 - Autenticación de usuarios con roles
 - Registro y gestión de delitos
 - Gestión de detenidos, sectores e instituciones
 - Panel administrativo
 
-**Tecnologías**
+### Tecnologías
 C# • ASP.NET Core • SQL Server • Arquitectura MVC
 
 ## 🎫 Sistema Tótem de Atención
 
 Sistema de gestión de turnos para atención de público.
 
-**Funciones principales**
+### Funciones principales
 - Ingreso de RUT del usuario
 - Selección de tipo de atención
 - Generación automática de ticket
 - Registro en base de datos
 - Visualización del número de atención
 
-**Tecnologías**
+### Tecnologías
 C# • Windows Forms • SQL Server
 
 ## 📚 Actualmente estoy aprendiendo
