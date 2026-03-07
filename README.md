@@ -52,15 +52,20 @@ Actualmente estoy desarrollando proyectos personales para fortalecer mis habilid
 
 ## 🛠 Desarrollo
 
-- Visual Studio
+<p align="left">
 
-- Visual Studio Code
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="45" title="Visual Studio"/>
 
-- .NET 8 / ASP.NET Core
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="Visual Studio Code"/>
 
-- Windows Forms
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="45" title=".NET 8 / ASP.NET Core"/>
 
-- Apache NetBeans
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" title="Windows Forms"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="45" title="Apache NetBeans"/>
+
+</p>
+
 ##
 ## 📂 Proyectos Destacados
 
