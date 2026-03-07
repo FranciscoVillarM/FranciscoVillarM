@@ -71,23 +71,23 @@ Sistema de gestión para registro y control de delitos desarrollado en C# y SQL 
 
 ### Características:
 
--Autenticación de usuarios con roles
+- Autenticación de usuarios con roles
 
--Registro de delitos y delincuentes
+- Registro de delitos y delincuentes
 
--Gestión de sectores e instituciones
+- Gestión de sectores e instituciones
 
--Interfaz administrativa
+- Interfaz administrativa
 
 ### Tecnologías utilizadas:
 
--C#
+- C#
 
--ASP.NET Core
+- ASP.NET Core
 
--SQL Server
+- SQL Server
 
--Arquitectura MVC
+- Arquitectura MVC
 
 ## 🎫 Sistema Tótem de Atención
 
@@ -95,43 +95,43 @@ Sistema de gestión de turnos para atención de público.
 
 ### Funciones principales:
 
--Generación automática de tickets
+- Generación automática de tickets
 
--Selección de tipo de atención
+- Selección de tipo de atención
 
--Registro en base de datos
+- Registro en base de datos
 
--Impresión automática de ticket
+- Impresión automática de ticket
 
 ### Tecnologías:
 
--C#
+- C#
 
--Windows Forms
+- Windows Forms
 
--SQL Server
+- SQL Server
 
 ## 📚 Actualmente estoy aprendiendo
 
--Desarrollo Web con ASP.NET Core
+- Desarrollo Web con ASP.NET Core
 
--Seguridad en aplicaciones
+- Seguridad en aplicaciones
 
--Mejores prácticas de bases de datos
+- Mejores prácticas de bases de datos
 
--Arquitectura de software
+- Arquitectura de software
 
 ## 🎯 Objetivo Profesional
 
 ### Busco oportunidades como:
 
--Desarrollador Junior
+- Desarrollador Junior
 
--Soporte TI Nivel 1
+- Soporte TI Nivel 1
 
--Soporte de aplicaciones
+- Soporte de aplicaciones
 
--Analista programador junior
+- Analista programador junior
 
 Donde pueda seguir aprendiendo, aportar con mis conocimientos y crecer profesionalmente.
 
