@@ -11,7 +11,7 @@ Me interesa seguir aprendiendo y creciendo en áreas como desarrollo backend, ba
 
 Actualmente estoy desarrollando proyectos personales para fortalecer mis habilidades en C#, SQL Server y desarrollo web con ASP.NET Core.
 
-## 🚀 Tecnologías y Herramientas
+# 🚀 Tecnologías y Herramientas
 
 ## 💻 Lenguajes
 
@@ -63,9 +63,9 @@ Actualmente estoy desarrollando proyectos personales para fortalecer mis habilid
 
 
 ##
-## 📂 Proyectos Destacados
+# 📂 Proyectos Destacados
 
-### 🛡 Sistema PrevCrim
+## 🛡 Sistema PrevCrim
 
 Sistema de gestión para registro y control de delitos desarrollado en C# y SQL Server.
 
@@ -91,7 +91,7 @@ Sistema de gestión para registro y control de delitos desarrollado en C# y SQL 
 
 ## 🎫 Sistema Tótem de Atención
 
-### Sistema de gestión de turnos para atención de público.
+Sistema de gestión de turnos para atención de público.
 
 ### Funciones principales:
 
