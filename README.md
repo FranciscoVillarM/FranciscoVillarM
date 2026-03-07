@@ -56,8 +56,6 @@ Actualmente estoy desarrollando proyectos personales para fortalecer mis habilid
 - Modelamiento de datos (Entidad-Relación)
 - UML
 
-
-
 ##
 # 📂 Proyectos Destacados
 
