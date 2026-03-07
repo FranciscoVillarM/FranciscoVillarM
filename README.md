@@ -15,7 +15,7 @@ Actualmente estoy desarrollando proyectos personales para fortalecer mis habilid
 
 ## 💻 Lenguajes
 
-<p align="right">
+<p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" title="C#"/>
 
