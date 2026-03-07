@@ -43,7 +43,7 @@ Actualmente estoy desarrollando proyectos personales para fortalecer mis habilid
 
 </p>
 
-### 🗄 Bases de datos
+## 🗄 Bases de datos
 
 <p align="left">
 
