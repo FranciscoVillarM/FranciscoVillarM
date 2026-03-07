@@ -38,18 +38,6 @@ Actualmente estoy desarrollando proyectos personales para fortalecer mis habilid
 
 </p>
 
-### 📊 Análisis y Modelado
-
-- Modelamiento de datos
-
-- Modelo Entidad-Relación (ER)
-
-- UML
-
-- Diagramas de Casos de Uso
-
-- Diagramas de Actividad
-
 ## 🛠 Desarrollo
 
 <p align="left">
@@ -65,6 +53,20 @@ Actualmente estoy desarrollando proyectos personales para fortalecer mis habilid
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="50" title="Apache NetBeans"/>
 
 </p>
+
+### 📊 Análisis y Modelado
+
+- Modelamiento de datos
+
+- Modelo Entidad-Relación (ER)
+
+- UML
+
+- Diagramas de Casos de Uso
+
+- Diagramas de Actividad
+
+
 
 ##
 ## 📂 Proyectos Destacados
