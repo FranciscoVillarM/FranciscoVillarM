@@ -27,17 +27,6 @@ Actualmente estoy desarrollando proyectos personales para fortalecer mis habilid
 
 </p>
 
-### 🗄 Bases de datos
-
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" title="SQL Server"/>
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
-
-</p>
-
 ## 🛠 Desarrollo
 
 <p align="left">
@@ -51,6 +40,17 @@ Actualmente estoy desarrollando proyectos personales para fortalecer mis habilid
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" title="Windows Forms" style="margin-right:40px;"/>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="50" title="Apache NetBeans"/>
+
+</p>
+
+### 🗄 Bases de datos
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" title="SQL Server"/>
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
 
 </p>
 
