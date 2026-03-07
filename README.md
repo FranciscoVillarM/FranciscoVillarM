@@ -10,10 +10,10 @@ Soy un profesional de tecnología enfocado en el desarrollo de aplicaciones y so
 Me interesa seguir aprendiendo y creciendo en áreas como desarrollo backend, bases de datos y soporte TI.
 
 Actualmente estoy desarrollando proyectos personales para fortalecer mis habilidades en C#, SQL Server y desarrollo web con ASP.NET Core.
-##
+
 ## 🚀 Tecnologías y Herramientas
 
-### 💻 Lenguajes
+## 💻 Lenguajes
 
 <p align="left">
 
