@@ -57,15 +57,8 @@ Actualmente estoy desarrollando proyectos personales para fortalecer mis habilid
 
 ### 📊 Análisis y Modelado
 
-- Modelamiento de datos
-
-- Modelo Entidad-Relación (ER)
-
+- Modelamiento de datos (Entidad-Relación)
 - UML
-
-- Diagramas de Casos de Uso
-
-- Diagramas de Actividad
 
 
 
