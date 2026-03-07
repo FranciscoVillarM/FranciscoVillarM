@@ -25,6 +25,11 @@ Actualmente estoy desarrollando proyectos personales para fortalecer mis habilid
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
 
+</p>
+
+### 🗄 Bases de datos
+
+<p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" title="SQL Server"/>
 
@@ -33,7 +38,19 @@ Actualmente estoy desarrollando proyectos personales para fortalecer mis habilid
 
 </p>
 
-### 🛠 Desarrollo
+### 📊 Análisis y Modelado
+
+- Modelamiento de datos
+
+- Modelo Entidad-Relación (ER)
+
+- UML
+
+- Diagramas de Casos de Uso
+
+- Diagramas de Actividad
+
+## 🛠 Desarrollo
 
 - Visual Studio
 
@@ -44,24 +61,6 @@ Actualmente estoy desarrollando proyectos personales para fortalecer mis habilid
 - Windows Forms
 
 - Apache NetBeans
-
-### 🗄 Bases de datos
-
--SQL Server
-
--MySQL
-
--Modelamiento de datos
-
-### 📊 Ingeniería de Software
-
--UML
-
--Modelo Entidad Relación
-
--Diagramas de Casos de Uso
-
--Diagramas de Actividad
 
 ## 📂 Proyectos Destacados
 
